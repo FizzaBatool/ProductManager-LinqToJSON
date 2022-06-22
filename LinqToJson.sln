@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToJson", "Linq-To-Json\LinqToJson.csproj", "{4F88EEC9-57DE-4B2F-A9F1-4D8020656764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F88EEC9-57DE-4B2F-A9F1-4D8020656764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F88EEC9-57DE-4B2F-A9F1-4D8020656764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F88EEC9-57DE-4B2F-A9F1-4D8020656764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F88EEC9-57DE-4B2F-A9F1-4D8020656764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C4DEC3-CC17-4B18-9C26-5CB5925E0F95}
+	EndGlobalSection
+EndGlobal
